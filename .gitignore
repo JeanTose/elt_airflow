@@ -1,0 +1,8 @@
+__pycache__
+src/data
+src/__pycache__
+src/repository/__pycache__
+src/service/__pycache__
+logs/*
+plugins/*
+config/*
